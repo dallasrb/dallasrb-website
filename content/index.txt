@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* July: TBA
-* August: TBA
+* November: TBA
+* December: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -22,31 +22,35 @@ h2. Future Meetings
 h2. Upcoming Meeting
 
 <dl>
+  <dt>What:</dt>
+  <dd>Ruby Core and Standard Library Lookin, Ruby and Salesforce, and CloudSpokes</dd>
+
   <dt>Who:</dt>
-  <dd>Everyone</dd>
+  <dd>Barrett Clark, Raymond Gao, Dave Messinger, and YOU!</dd>
 
-   <dt>What:</dt>
-   <dd>Ruby Newbie Q&A</dd>
+  <dt>When:</dt>
+  <dd>October 4, 7-9pm</dd>
 
-   <dt>When:</dt>
-   <dd>September 6, 7-9pm</dd>
+  <dt>Where:</dt>
+  <dd>
+    <a href="http://www.improvingenterprises.com/">Improving Enterprises</a><br/>
+    16633 Dallas Parkway, Ste 110, Dallas, TX 75001 (<a href="http://bit.ly/hAy69s">map</a>)
+  </dd>
+</dl>
 
-   <dt>Where:</dt>
-   <dd>
-      <a href="http://www.improvingenterprises.com/">Improving Enterprises</a><br/>
-      16633 Dallas Parkway, Ste 110, Dallas, TX 75001 (<a href="http://bit.ly/hAy69s">map</a>)
-   </dd>
- </dl>
+h3. Appetizer: Ruby Core and Standard Library Lookin
 
-h3. Ruby Newbie Q&A
+Barrett Clark will be kicking off a mini-series where we spend 20 minutes diving into a piece of the Ruby Core or Standard library. This month we'll look at Test::Unit.
 
-Do you have Ruby questions that have been keeping you up at night?  What are mixins? Why can I find out what happened 4.weeks.ago in Rails?  Where should I deploy my next cool app?  Should I use MySQL or NoSQL? What is the github all the kids are talking about?  How can I get a full-time job programming Ruby and/or Rails everyday? Do I even want that?
+h3. Main Course: Ruby and Salesforce
 
-With all the new faces that we have been seeing at the Dallas.rb in recent months, we want to take some time and give you a chance to ask those questions and many more.  Bring your questions and we will bring pizza, sodas, and answers.  Don't miss chance to get those questions answered.
+Raymond Gao will provide an intro and overview into using Ruby with Salesforce. Salesforce is one of the leading CRM solution providers. Chatter (its social networking tool) is a really hot topic. Ruby on Salesforce integration is a relative new topic. I have the fortune of having written the Ruby Toolkit for Salesforce, used at 2010 DreamForce conference. Based on my personal experience, this approach is probably one of the fastest ways to developing apps, running in the cloud (for example Heroku, Cloud Foundry, or Engine Yard, … ) while leveraging a pre-existing / widely accepted CRM data model. There is already a ~300 people developer community for this technology, around the world. 
 
-Not a newbie? Come share your wisdom and experiences. You might even be surprised to learn a new thing or two yourself.
+h3. Main Course (Part 2): CloudSpokes: Cloud Architecture Case Study
 
-h3. Everyone
+Dave Messinger will join us virtually from Philadelphia and intro CloudSpokes. CloudSpokes is one of the hottest places to be right now for the cloud computing community. It lets users win top prizes (ranging $600 - $25,000) and skill badges, while it helps companies / organizations addressing their IT needs in a super lean fashion. Dave will share with us some of the behind the scenes of the sites technical aspects like storing data locally and in Salesforce, as well as how Ruby plays a role in their development strategy. 
+
+h3. Meeting Open to Everyone
 
 We welcome everyone to the Dallas.rb meetings.  Come out and ask questions, help answer questions, or just be a part of the conversation.  There is always something new to learn!
 

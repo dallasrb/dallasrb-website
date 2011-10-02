@@ -9,6 +9,20 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. October 4, 2011
+
+h3. Appetizer: Ruby Core and Standard Library Lookin
+
+Barrett Clark will be kicking off a mini-series where we spend 20 minutes diving into a piece of the Ruby Core or Standard library. This month we'll look at Test::Unit.
+
+h3. Main Course: Ruby and Salesforce
+
+Raymond Gao will provide an intro and overview into using Ruby with Salesforce. Salesforce is one of the leading CRM solution providers. Chatter (its social networking tool) is a really hot topic. Ruby on Salesforce integration is a relative new topic. I have the fortune of having written the Ruby Toolkit for Salesforce, used at 2010 DreamForce conference. Based on my personal experience, this approach is probably one of the fastest ways to developing apps, running in the cloud (for example Heroku, Cloud Foundry, or Engine Yard, … ) while leveraging a pre-existing / widely accepted CRM data model. There is already a ~300 people developer community for this technology, around the world. 
+
+h3. Main Course (Part 2): CloudSpokes: Cloud Architecture Case Study
+
+Dave Messinger will join us virtually from Philadelphia and intro CloudSpokes. CloudSpokes is one of the hottest places to be right now for the cloud computing community. It lets users win top prizes (ranging $600 - $25,000) and skill badges, while it helps companies / organizations addressing their IT needs in a super lean fashion. Dave will share with us some of the behind the scenes of the sites technical aspects like storing data locally and in Salesforce, as well as how Ruby plays a role in their development strategy.
+
 h2. September 6, 2011
 
 h3. Ruby Newbie Q&A
