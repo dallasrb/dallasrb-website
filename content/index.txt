@@ -62,7 +62,7 @@ h3. Hacknights
 
 We meet on the second, third, and fourth Tuesdays of the month from 7 PM to 9 PM.
 
-* Second Tuesday - "Paradise Bakery":http://www.yelp.com/biz/frosted-java-frisco
+* Second Tuesday - "Paradise Bakery":http://www.yelp.com/biz/paradise-bakery-and-cafe-plano
 * Third Tuesday - "Fat Straws":http://www.yelp.com/biz/fat-straws-dallas
 * Fourth Tuesday - Hyperlocal Hacknights
 ** Dallas - "Cafe Brazil":http://www.yelp.com/biz/cafe-brazil-dallas-12
