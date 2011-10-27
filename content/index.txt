@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* November: TBA
 * December: TBA
+* January: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>What:</dt>
-  <dd>Ruby Core and Standard Library Lookin, Ruby and Salesforce, and CloudSpokes</dd>
+  <dd>Event Driven Programming with Event Machine, Ruby Core and Standard Library Lookin</dd>
 
   <dt>Who:</dt>
-  <dd>Barrett Clark, Raymond Gao, Dave Messinger, and YOU!</dd>
+  <dd>Jesse Dearing, Barrett Clark, and YOU!</dd>
 
   <dt>When:</dt>
-  <dd>October 4, 7-9pm</dd>
+  <dd>November 1, 7-9pm</dd>
 
   <dt>Where:</dt>
   <dd>
@@ -38,17 +38,25 @@ h2. Upcoming Meeting
   </dd>
 </dl>
 
-h3. Appetizer: Ruby Core and Standard Library Lookin
+h3. Opening Act: Ruby Core and Standard Library Lookin
 
-Barrett Clark will be kicking off a mini-series where we spend 20 minutes diving into a piece of the Ruby Core or Standard library. This month we'll look at Test::Unit.
+Barrett Clark will be continuing the mini-series where we spend 20 minutes diving into a piece of the Ruby Core or Standard library. This month we'll look at creating database connections from Plain Ol' Ruby.
 
-h3. Main Course: Ruby and Salesforce
+h3. And now for the main event......
 
-Raymond Gao will provide an intro and overview into using Ruby with Salesforce. Salesforce is one of the leading CRM solution providers. Chatter (its social networking tool) is a really hot topic. Ruby on Salesforce integration is a relative new topic. I have the fortune of having written the Ruby Toolkit for Salesforce, used at 2010 DreamForce conference. Based on Ray's personal experience, this approach is probably one of the fastest ways to developing apps, running in the cloud (for example Heroku, Cloud Foundry, or Engine Yard, … ) while leveraging a pre-existing / widely accepted CRM data model. There is already a ~300 people developer community for this technology, around the world. 
+Tuesday!! Tuesday!! Tuesday!!
+What is event-driven programming?
+How do I write event driven applications?
+What is EventMachine?
 
-h3. Main Course (Part 2): CloudSpokes: Cloud Architecture Case Study
+We'll talk about all this and more. Kids seats are still just FIVE BUCKS!
 
-Dave Messinger will join us virtually from Philadelphia and intro CloudSpokes. CloudSpokes is one of the hottest places to be right now for the cloud computing community. It lets users win top prizes (ranging $600 - $25,000) and skill badges, while it helps companies / organizations addressing their IT needs in a super lean fashion. Dave will share with us some of the behind the scenes of the sites technical aspects like storing data locally and in Salesforce, as well as how Ruby plays a role in their development strategy. 
+*About Jesse*
+
+Jesse Dearing is a developer at Pure Charity. The mission of Pure Charity is to inspire and encourage a movement of generosity by providing a global platform where everyone can engage and make a difference. Jesse has been writing Ruby for 3+ years and favors interacting with the world through HTTP whether that is via HTML or REST.
+
+Twitter: @JesseDearing
+Blog: http://jessedearing.com 
 
 h3. Meeting Open to Everyone
 

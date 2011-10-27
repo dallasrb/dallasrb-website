@@ -9,6 +9,28 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. November 1, 2011
+
+h3. Opening Act: Ruby Core and Standard Library Lookin
+
+Barrett Clark will be continuing the mini-series where we spend 20 minutes diving into a piece of the Ruby Core or Standard library. This month we'll look at creating database connections from Plain Ol' Ruby.
+
+h3. And now for the main event......
+
+Tuesday!! Tuesday!! Tuesday!!
+What is event-driven programming?
+How do I write event driven applications?
+What is EventMachine?
+
+We'll talk about all this and more. Kids seats are still just FIVE BUCKS!
+
+*About Jesse*
+
+Jesse Dearing is a developer at Pure Charity. The mission of Pure Charity is to inspire and encourage a movement of generosity by providing a global platform where everyone can engage and make a difference. Jesse has been writing Ruby for 3+ years and favors interacting with the world through HTTP whether that is via HTML or REST.
+
+Twitter: @JesseDearing
+Blog: http://jessedearing.com
+
 h2. October 4, 2011
 
 h3. Appetizer: Ruby Core and Standard Library Lookin
