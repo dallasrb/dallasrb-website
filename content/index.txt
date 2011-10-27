@@ -53,10 +53,10 @@ We'll talk about all this and more. Kids seats are still just FIVE BUCKS!
 
 *About Jesse*
 
-Jesse Dearing is a developer at Pure Charity. The mission of Pure Charity is to inspire and encourage a movement of generosity by providing a global platform where everyone can engage and make a difference. Jesse has been writing Ruby for 3+ years and favors interacting with the world through HTTP whether that is via HTML or REST.
+Jesse Dearing is a developer at "Pure Charity":http://purecharity.com/. The mission of Pure Charity is to inspire and encourage a movement of generosity by providing a global platform where everyone can engage and make a difference. Jesse has been writing Ruby for 3+ years and favors interacting with the world through HTTP whether that is via HTML or REST.
 
-Twitter: @JesseDearing
-Blog: http://jessedearing.com 
+Twitter: "http://twitter.com/jessedearing":@JesseDearing
+Blog: "http://jessedearing.com":http://jessedearing.com 
 
 h3. Meeting Open to Everyone
 
