@@ -9,6 +9,28 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. December 6, 2011
+
+h3. Ruby Core and Standard Library Lookin
+
+Barrett Clark will be continuing the mini-series where we spend 20 minutes diving into a piece of the Ruby Core or Standard library. This month we'll look at rake tasks, script inputs, and logging.
+
+h3. Guarding your Projects
+
+Guard is a command line tool that easily handles events on file modifications.  The primary use for guard is to automatically run tests based on changes to source files, but because of its modular nature, it can do much more.  We'll quickly cover typical setup and use, as well as alternative uses, and maybe even write our own guard gem for fun.
+
+*About Morgan*
+
+Morgan Nelson is a software developer at getaroom.com.  getaroom.com connects people to affordable hotel stays worldwide.  Morgan has been working with Ruby since 2007, and loves automating everything he can.
+
+Twitter: "http://twitter.com/korishev":@korishev
+
+h3. The Best and Worst of 2011
+
+We encourage you to bring a piece of code you have written this year that you are incredibly proud of (or something you are horribly ashamed of) and share it with the group. This is a great way for all of us to get a glimpse into what we are all working on. 
+
+If you'd like to present, plan to spend 5 or 10 minutes talking about your code, the intention behind it, and why you love (or hate) it. *Prizes* will be given to the Best and the Worst code presented.
+
 h2. November 1, 2011
 
 h3. Opening Act: Ruby Core and Standard Library Lookin

@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* December: TBA
 * January: TBA
+* February: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>What:</dt>
-  <dd>Event Driven Programming with Event Machine, Ruby Core and Standard Library Lookin</dd>
+  <dd>Guarding your Projects, Ruby Core and Standard Library Lookin, and the Best and Worst of 2011</dd>
 
   <dt>Who:</dt>
-  <dd>Jesse Dearing, Barrett Clark, and YOU!</dd>
+  <dd>Morgan Nelson, Barrett Clark, and YOU!</dd>
 
   <dt>When:</dt>
-  <dd>November 1, 7-9pm</dd>
+  <dd>December 6, 7-9pm</dd>
 
   <dt>Where:</dt>
   <dd>
@@ -38,25 +38,26 @@ h2. Upcoming Meeting
   </dd>
 </dl>
 
-h3. Opening Act: Ruby Core and Standard Library Lookin
+h3. Ruby Core and Standard Library Lookin
 
-Barrett Clark will be continuing the mini-series where we spend 20 minutes diving into a piece of the Ruby Core or Standard library. This month we'll look at creating database connections from Plain Ol' Ruby.
+Barrett Clark will be continuing the mini-series where we spend 20 minutes diving into a piece of the Ruby Core or Standard library. This month we'll look at rake tasks, script inputs, and logging.
 
-h3. And now for the main event......
+h3. Guarding your Projects
 
-Tuesday!! Tuesday!! Tuesday!!
-What is event-driven programming?
-How do I write event driven applications?
-What is EventMachine?
+Guard is a command line tool that easily handles events on file modifications.  The primary use for guard is to automatically run tests based on changes to source files, but because of its modular nature, it can do much more.  We'll quickly cover typical setup and use, as well as alternative uses, and maybe even write our own guard gem for fun.
 
-We'll talk about all this and more. Kids seats are still just FIVE BUCKS!
+*About Morgan*
 
-*About Jesse*
+Morgan Nelson is a software developer at getaroom.com.  getaroom.com connects people to affordable hotel stays worldwide.  Morgan has been working with Ruby since 2007, and loves automating everything he can.
 
-Jesse Dearing is a developer at "Pure Charity":http://purecharity.com/. The mission of Pure Charity is to inspire and encourage a movement of generosity by providing a global platform where everyone can engage and make a difference. Jesse has been writing Ruby for 3+ years and favors interacting with the world through HTTP whether that is via HTML or REST.
+Twitter: "http://twitter.com/korishev":@korishev
 
-Twitter: "http://twitter.com/jessedearing":@JesseDearing
-Blog: "http://jessedearing.com":http://jessedearing.com 
+h3. The Best and Worst of 2011
+
+We encourage you to bring a piece of code you have written this year that you are incredibly proud of (or something you are horribly ashamed of) and share it with the group. This is a great way for all of us to get a glimpse into what we are all working on. 
+
+If you'd like to present, plan to spend 5 or 10 minutes talking about your code, the intention behind it, and why you love (or hate) it. *Prizes* will be given to the Best and the Worst code presented.
+
 
 h3. Meeting Open to Everyone
 
