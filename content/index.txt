@@ -75,7 +75,7 @@ We meet on the second, third, and fourth Tuesdays of the month from 7 PM to 9 PM
 
 * Second Tuesday
 ** Dallas - "OrgSync Offices":http://g.co/maps/6msdt 
-** Plano/Frisco - "Paradise Bakery":http://www.yelp.com/biz/paradise-bakery-and-cafe-plano
+** Plano/Frisco - "Paradise Bakery":http://g.co/maps/yemxr
 * Third Tuesday - "Fat Straws":http://www.yelp.com/biz/fat-straws-dallas
 * Fourth Tuesday - Hyperlocal Hacknights
 ** Dallas - "Cafe Brazil":http://www.yelp.com/biz/cafe-brazil-dallas-12
