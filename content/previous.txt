@@ -9,6 +9,14 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. January 3, 2012
+
+h3. The Path to Ruby: A panel discussion
+
+This month will feature four of our local Rubyists. Karthik Hariharan, Steve Crozier, Curtis Summers, and Greg Vaughn will take part in a panel discussion centered around how they came to and have progressed in software development and Ruby.
+
+This is a great opportunity for people at all points in the Ruby path. Whether you're just getting started or have been at it for a while, we hope to see you there.
+
 h2. December 6, 2011
 
 h3. Ruby Core and Standard Library Lookin
