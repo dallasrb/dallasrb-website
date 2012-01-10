@@ -60,15 +60,12 @@ h3. Hacknights
 
 We meet on the second, third, and fourth Tuesdays of the month from 7 PM to 9 PM.
 
-* Second Tuesday
-** Dallas - "OrgSync Offices":http://g.co/maps/6msdt 
-** Plano/Frisco - "Paradise Bakery":http://g.co/maps/yemxr
-* Third Tuesday - "Fat Straws":http://www.yelp.com/biz/fat-straws-dallas
+* Second Tuesday - "Paradise Bakery":http://g.co/maps/yemxr
+* Third Tuesday - "OrgSync Offices":http://g.co/maps/6msdt 
 * Fourth Tuesday - Hyperlocal Hacknights
 ** Dallas - "Cafe Brazil":http://www.yelp.com/biz/cafe-brazil-dallas-12
 ** Fort Worth - "Avoca Coffee":http://g.co/maps/xzaff
-** Las Colinas - "Corner Bakery":http://www.yelp.com/biz/corner-bakery-cafe-irving-2
-** The Colony - "Lone Star Coffee Bar":http://lonestarcoffeebar.com/
+** The Colony - Currently looking for a home...
 * Fifth Tuesday (when applicable) - "The Londoner":http://www.yelp.com/biz/the-londoner-addison
 
 Anyone and everyone is invited.
