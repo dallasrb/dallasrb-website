@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* February: active_attr
-* March: metaprogramming
+* March: intro to metaprogramming
+* April: internationalization: time zones, locales, and currency 
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>What:</dt>
-  <dd>The Path to Ruby: A panel discussion</dd>
+  <dd>Models, Models, Every Where | Ruby Basics</dd>
 
   <dt>Who:</dt>
-  <dd>Karthik Hariharan, Steve Crozier, Curtis Summers, Greg Vaughn, and YOU!</dd>
+  <dd>Chris Griego | Barrett Clark</dd>
 
   <dt>When:</dt>
-  <dd>January 3, 7-9pm</dd>
+  <dd>February 5, 7-9pm</dd>
 
   <dt>Where:</dt>
   <dd>
@@ -39,11 +39,17 @@ h2. Upcoming Meeting
 </dl>
 
 
-h3. The Path to Ruby: A panel discussion
+h3. Models, Models, Every Where
 
-This month will feature four of our local Rubyists. Karthik Hariharan, Steve Crozier, Curtis Summers, and Greg Vaughn will take part in a panel discussion centered around how they came to and have progressed in software development and Ruby.
+Models form the backbone of our applications, but what are they and where to they come from? More importantly, do you have enough models or is your application missing some? Chris will show you how to spot missing models as well as create models with all of the goodies you've come to expect from Ruby on Rails. Along the way you'll be introduced to "ActiveAttr":https://github.com/cgriego/active_attr which makes it easy to construct models.
 
-This is a great opportunity for people at all points in the Ruby path. Whether you're just getting started or have been at it for a while, we hope to see you there.
+*About Chris Griego*
+
+"Chris Griego":https://twitter.com/cgriego got started with Ruby through Ruby on Rails in 2005. Chris spends his days developing applications at "getaroom.com":http://www.getaroom.com/ and his evenings "contributing to open source projects":https://github.com/cgriego such as Mongoid and Capistrano.
+
+h3. Ruby Basics
+
+Barrett Clark will be continuing the mini-series where we spend 20 minutes diving into a piece of basic Ruby tools and implementations. This month we'll look at consuming a web service and how to effectively test the implementation.
 
 
 h3. Meeting Open to Everyone
