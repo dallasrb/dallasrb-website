@@ -23,7 +23,7 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>What:</dt>
-  <dd>Models, Models, Every Where | Ruby Basics</dd>
+  <dd>Models, Models, Every Where | Ruby Basics Series: Web Services</dd>
 
   <dt>Who:</dt>
   <dd>Chris Griego | Barrett Clark</dd>
@@ -47,7 +47,7 @@ Models form the backbone of our applications, but what are they and where to the
 
 "Chris Griego":https://twitter.com/cgriego got started with Ruby through Ruby on Rails in 2005. Chris spends his days developing applications at "getaroom.com":http://www.getaroom.com/ and his evenings "contributing to open source projects":https://github.com/cgriego such as Mongoid and Capistrano.
 
-h3. Ruby Basics
+h3. Ruby Basics Series: Web Services
 
 Barrett Clark will be continuing the mini-series where we spend 20 minutes diving into a piece of basic Ruby tools and implementations. This month we'll look at consuming a web service and how to effectively test the implementation.
 
