@@ -19,7 +19,7 @@ We will cover Dynamic Dispatch, Ghost Methods, Class Macros and The Ruby Object 
 
 *About Scott Johnson*
 
-"Scott Johnson":http://twitter.com/t_itchy works for Sabre, I've been designing and developing applications for 10 years, Ruby for 3.  @t_tichy on the Twitter and Itchy on the GitHub.
+"Scott Johnson":http://twitter.com/t_itchy works for Sabre, and has been designing and developing applications for 10 years, Ruby for 3. He is @t_tichy on the Twitter and Itchy on the GitHub.
 
 It has been said that Scott is "a brilliant man who has come up with many...well-thought-out, practical ideas...and his personal hygiene is beyond reproach."
 
