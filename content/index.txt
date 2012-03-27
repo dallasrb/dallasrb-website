@@ -36,6 +36,9 @@ h2. Upcoming Meeting
     <a href="http://www.improvingenterprises.com/">Improving Enterprises</a><br/>
     16633 Dallas Parkway, Ste 110, Dallas, TX 75001 (<a href="http://bit.ly/hAy69s">map</a>)
   </dd>
+
+  <dt>RSVP:</dt>
+  <dd><a href="http://plancast.com/p/anh9">RSVP on Plancast</a></dd>
 </dl>
 
 
