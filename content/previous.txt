@@ -9,6 +9,20 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. April 3, 2012
+
+h3. A Journey through Time, Date, DateTime and TimeWithZone
+
+Wade Winningham will guide us on a trip through the recesses of how Ruby and Rails (ActiveSupport) helps us deal with dates, times and time zones.
+
+h3. ActiveSupport MiniSeries - Class Attribute
+
+We'll kickoff a new miniseries on ActiveSupport by taking a look at class_attribute.
+
+h3. RubyNews
+
+Karthik Hariharan will keep us up to date with the latest news for Ruby and Rails.
+
 h2. March 6, 2012
 
 h3. Ruby Crush: A Metaprogramming Primer

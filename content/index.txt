@@ -5,14 +5,14 @@ filter:
   - textile
 ---
 
-Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month.  Often there is hacking.  Sometimes there is beer.
+Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month.  Often there is hacking.  There is always food. Sometimes there is beer.
 
 <div id='future_meetings'>
 
 h2. Future Meetings
 
-* March: intro to metaprogramming
-* April: internationalization: time zones, locales, and currency 
+* May: TBA
+* June: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>What:</dt>
-  <dd>Ruby Crush: A Metaprogramming Primer | Ruby Basics Series: Gem Creation</dd>
+  <dd>A Journey through Time, Date, DateTime and TimeWithZone | ActiveSupport MiniSeries | RubyNews
 
   <dt>Who:</dt>
-  <dd>Scott Johnson | Barrett Clark</dd>
+  <dd>Wade Winningham | Mark McSpadden | Karthik Hariharan</dd>
 
   <dt>When:</dt>
-  <dd>March 6, 7-9pm</dd>
+  <dd>April 3, 7-9pm</dd>
 
   <dt>Where:</dt>
   <dd>
@@ -39,22 +39,17 @@ h2. Upcoming Meeting
 </dl>
 
 
-h3. Ruby Crush: A Metaprogramming Primer
+h3. A Journey through Time, Date, DateTime and TimeWithZone
 
-Scott Johnson will guide us through metaprogramming techniques to demystify the magic in Rails (and other Ruby programs) and how to apply those techniques to improve your code.
+Wade Winningham will guide us on a trip through the recesses of how Ruby and Rails (ActiveSupport) helps us deal with dates, times and time zones.
 
-We will cover Dynamic Dispatch, Ghost Methods, Class Macros and The Ruby Object Model, then apply those techniques to make something cool.
+h3. ActiveSupport MiniSeries - Class Attribute
 
-*About Scott Johnson*
+We'll kickoff a new miniseries on ActiveSupport by taking a look at class_attribute.
 
-"Scott Johnson":http://twitter.com/t_itchy works for Sabre, and has been designing and developing applications for 10 years, Ruby for 3. He is @t_tichy on the Twitter and Itchy on the GitHub.
+h3. RubyNews
 
-It has been said that Scott is "a brilliant man who has come up with many...well-thought-out, practical ideas...and his personal hygiene is beyond reproach."
-
-h3. Ruby Basics Series: Gem Creation
-
-Barrett Clark will be wrapping up the mini-series where we spend 20 minutes diving into a piece of basic Ruby tools and implementations. This month we'll look at consuming at gem creation.
-
+Karthik Hariharan will keep us up to date with the latest news for Ruby and Rails.
 
 h3. Meeting Open to Everyone
 
