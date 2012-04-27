@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* May: TBA
 * June: TBA
+* July: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>What:</dt>
-  <dd>A Journey through Time, Date, DateTime and TimeWithZone | ActiveSupport MiniSeries | RubyNews
+  <dd>Lightning Talks | ActiveSupport MiniSeries | RubyNews</dd>
 
   <dt>Who:</dt>
-  <dd>Wade Winningham | Mark McSpadden | Karthik Hariharan</dd>
+  <dd>You! | Mark McSpadden | Karthik Hariharan</dd>
 
   <dt>When:</dt>
-  <dd>April 3, 7-9pm</dd>
+  <dd>May 1, 7-9pm</dd>
 
   <dt>Where:</dt>
   <dd>
@@ -38,17 +38,19 @@ h2. Upcoming Meeting
   </dd>
 
   <dt>RSVP:</dt>
-  <dd><a href="http://plancast.com/p/anh9">RSVP on Plancast</a></dd>
+  <dd><a href="http://plancast.com/p/b691">RSVP on Plancast</a></dd>
 </dl>
 
 
-h3. A Journey through Time, Date, DateTime and TimeWithZone
+h3. Lightning Talks (RailsConf rehash and More)
 
-Wade Winningham will guide us on a trip through the recesses of how Ruby and Rails (ActiveSupport) helps us deal with dates, times and time zones.
+With many of us coming off the trip to RailsConf, we'll open up the floor to anyone that would like to share something they learned with those that didn't get to make the trip.
 
-h3. ActiveSupport MiniSeries - Class Attribute
+But we won't stop there! If you have a topic you'd like to talk about for 5 or 10 minutes...even if it's not RailsConf related, you are welcome to join the fun as well.
 
-We'll kickoff a new miniseries on ActiveSupport by taking a look at class_attribute.
+h3. ActiveSupport MiniSeries - Concerns
+
+We'll continue the miniseries on ActiveSupport by taking a look at ActiveSupport::Concerns.
 
 h3. RubyNews
 

@@ -9,6 +9,22 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. May 1, 2012
+
+h3. Lightning Talks (RailsConf rehash and More)
+
+With many of us coming off the trip to RailsConf, we'll open up the floor to anyone that would like to share something they learned with those that didn't get to make the trip.
+
+But we won't stop there! If you have a topic you'd like to talk about for 5 or 10 minutes...even if it's not RailsConf related, you are welcome to join the fun as well.
+
+h3. ActiveSupport MiniSeries - Concerns
+
+We'll continue the miniseries on ActiveSupport by taking a look at ActiveSupport::Concerns.
+
+h3. RubyNews
+
+Karthik Hariharan will keep us up to date with the latest news for Ruby and Rails.
+
 h2. April 3, 2012
 
 h3. A Journey through Time, Date, DateTime and TimeWithZone
