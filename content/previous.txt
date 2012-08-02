@@ -9,6 +9,31 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. August 7, 2012
+
+h3.  JRuby or JRuby not. There is no try.
+
+* I'll show you how to install the latest JRuby with InvokeDynamic support.
+* Threads are awesome. Don't worry, be happy. Libraries have threads. Your code doesn't.
+* Continuous Testing: Starting up a JRuby process takes years. So testing with JRuby takes decades. Here's how to make it only take hours.
+* Java sucks, but it's better than C.
+* Logback: The last logging library you'll ever put on.
+* Servlet API: Like Rack on NAWZ.
+* Deployment: Maven, Bundler and JARs. Beets, Bears, Battlestar Galactica.
+* JRuby vs Rubinius
+* JRuby vs YARV
+
+Bio:
+
+Sam Smoot. Started developing professionally with ASP Classic. Moved onto ASP.NET and c#. Ended up at Ruby.
+I've written O/RMs and Web Frameworks. I've created High Availability solutions and built out datacenter installations. I like BSD. I dislike dogma and hype; I prefer pro/con lists. My hobbies include drinking lagers and working on DIY projects around the house. I have an irresponsible amount of power tools considering I'm just a Programmer. You can stalk me on Twitter at @srsmoot.
+
+h2. June 5, 2012
+
+h3. Contests, Algorithms, and Ruby - Or, What I Wish I Had Thought Of During Google Code Jam
+
+Steve Crozier is a programmer and entrepreneur. He has founded four companies, all with a software focus. He has a B.S. in Computer Science and an M.S. in Computational Biology. For the last few years, he has been a full-time Ruby/Rails contract programmer. He also plays the piano, and may break into a musical number if this talk goes poorly.
+
 h2. May 1, 2012
 
 h3. Lightning Talks (RailsConf rehash and More)
