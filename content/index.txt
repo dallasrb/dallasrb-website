@@ -76,7 +76,7 @@ h3. Hacknights
 
 We meet on the second, third, and fourth Tuesdays of the month from 7 PM to 9 PM.
 
-* Second Tuesday - "Paradise Bakery":http://g.co/maps/yemxr
+* Second Tuesday - "Ginger Man Pub in Plano":http://goo.gl/maps/o2b9c
 * Third Tuesday - "OrgSync Offices":http://g.co/maps/6msdt 
 * Fourth Tuesday - Hyperlocal Hacknights
 ** Dallas - "Cafe Brazil":http://www.yelp.com/biz/cafe-brazil-dallas-12
