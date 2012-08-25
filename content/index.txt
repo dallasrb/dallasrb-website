@@ -68,11 +68,9 @@ We welcome everyone to the Dallas.rb meetings.  Come out and ask questions, help
 
 "Previous Meetings":/previous.html
 
-h2. Event Calendar
-
 <div id='hacknights'>
 
-h3. Hacknights
+h2. Hacknights
 
 We meet on the second, third, and fourth Tuesdays of the month from 7 PM to 9 PM.
 
