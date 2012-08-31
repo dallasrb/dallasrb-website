@@ -9,6 +9,22 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. September 4, 2012
+
+h3.  Infrastructure as Code with Chef
+
+The full stack: the final frontier. As developers we take problems and use code to describe the proposed solution to solve the problem using the resources available to us. Infrastructure as Code is a way of codifying the installation of services and software on a machine starting with a fresh image.
+<br/><br/>
+This session explores infrastructure as code using Chef and will allow you to manage your infrastructure as resources in code vs. a slew of shell scripts. In addition, talk about Chef testing techniques.
+
+Bio:
+
+Jesse Dearing is a full stack developer who works primarily in Ruby, though he has dabbled in many languages such as Javascript, C#, Powershell, PHP, and C.
+<br/><br/>
+Jesse was born in Sugar Land and currently resides in Dallas, TX. Currently Jesse works as Lead Developer and Meme Connoisseur for Pure Charity.
+<br/><br/>
+Jesse also blogs infrequently at "http://jessedearing.com":http://jessedearing.com.
+
 h2. August 7, 2012
 
 h3.  JRuby or JRuby not. There is no try.

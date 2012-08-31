@@ -11,7 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* September: Intro to Chef
+* October: Integrations in Rails
+* November: Backbone and SocketIO with Rails
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -22,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>What:</dt>
-  <dd>JRuby or JRuby not. There is no try. | RubyNews</dd>
+  <dd>Infrastructure as Code with Chef | RubyNews</dd>
 
   <dt>Who:</dt>
-  <dd>Sam Smoot | Karthik Hariharan</dd>
+  <dd>Jesse Dearing | Karthik Hariharan</dd>
 
   <dt>When:</dt>
-  <dd>August 7, 7-9pm</dd>
+  <dd>September 4, 7-9pm</dd>
 
   <dt>Where:</dt>
   <dd>
@@ -37,26 +38,23 @@ h2. Upcoming Meeting
   </dd>
 
   <dt>RSVP:</dt>
-  <dd><a href="http://plancast.com/p/cd2p">RSVP on Plancast</a></dd>
+  <dd><a href="http://plancast.com/p/cpig">RSVP on Plancast</a></dd>
 </dl>
 
 
-h3.  JRuby or JRuby not. There is no try.
+h3.  Infrastructure as Code with Chef
 
-* I'll show you how to install the latest JRuby with InvokeDynamic support.
-* Threads are awesome. Don't worry, be happy. Libraries have threads. Your code doesn't.
-* Continuous Testing: Starting up a JRuby process takes years. So testing with JRuby takes decades. Here's how to make it only take hours.
-* Java sucks, but it's better than C.
-* Logback: The last logging library you'll ever put on.
-* Servlet API: Like Rack on NAWZ.
-* Deployment: Maven, Bundler and JARs. Beets, Bears, Battlestar Galactica.
-* JRuby vs Rubinius
-* JRuby vs YARV
+The full stack: the final frontier. As developers we take problems and use code to describe the proposed solution to solve the problem using the resources available to us. Infrastructure as Code is a way of codifying the installation of services and software on a machine starting with a fresh image.
+<br/><br/>
+This session explores infrastructure as code using Chef and will allow you to manage your infrastructure as resources in code vs. a slew of shell scripts. In addition, talk about Chef testing techniques.
 
 Bio:
 
-Sam Smoot. Started developing professionally with ASP Classic. Moved onto ASP.NET and c#. Ended up at Ruby.
-I've written O/RMs and Web Frameworks. I've created High Availability solutions and built out datacenter installations. I like BSD. I dislike dogma and hype; I prefer pro/con lists. My hobbies include drinking lagers and working on DIY projects around the house. I have an irresponsible amount of power tools considering I'm just a Programmer. You can stalk me on Twitter at @srsmoot.
+Jesse Dearing is a full stack developer who works primarily in Ruby, though he has dabbled in many languages such as Javascript, C#, Powershell, PHP, and C.
+<br/><br/>
+Jesse was born in Sugar Land and currently resides in Dallas, TX. Currently Jesse works as Lead Developer and Meme Connoisseur for Pure Charity.
+<br/><br/>
+Jesse also blogs infrequently at "http://jessedearing.com":http://jessedearing.com.
 
 h3. RubyNews
 
