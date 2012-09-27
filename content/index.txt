@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* October: Integrations in Rails
 * November: Backbone and SocketIO with Rails
+* December: Controlling Physical Things w/Ruby AND Best/Worst of 2012
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>What:</dt>
-  <dd>Infrastructure as Code with Chef | RubyNews</dd>
+  <dd>InteGREAT - Integrations in Rails | RubyNews</dd>
 
   <dt>Who:</dt>
-  <dd>Jesse Dearing | Karthik Hariharan</dd>
+  <dd>Jorge Valdivia | Karthik Hariharan</dd>
 
   <dt>When:</dt>
-  <dd>September 4, 7-9pm</dd>
+  <dd>October 2, 7-9pm</dd>
 
   <dt>Where:</dt>
   <dd>
@@ -38,23 +38,19 @@ h2. Upcoming Meeting
   </dd>
 
   <dt>RSVP:</dt>
-  <dd><a href="http://plancast.com/p/cpig">RSVP on Plancast</a></dd>
+  <dd><a href="http://plancast.com/p/d1ea">RSVP on Plancast</a></dd>
 </dl>
 
 
-h3.  Infrastructure as Code with Chef
+h3.  InteGREAT - Integrations in Rails
 
-The full stack: the final frontier. As developers we take problems and use code to describe the proposed solution to solve the problem using the resources available to us. Infrastructure as Code is a way of codifying the installation of services and software on a machine starting with a fresh image.
-<br/><br/>
-This session explores infrastructure as code using Chef and will allow you to manage your infrastructure as resources in code vs. a slew of shell scripts. In addition, talk about Chef testing techniques.
+Just about any application integrates with some sort of external service. Uploading files to AWS, liking all of your friends' statuses, or downloading tweets for the latest trending topic, a modern app is almost required to have an integration. While implementing a simple one may require nothing more than skimming through the README on the Github repo, more complicated integrations call for a deeper understanding of the process as a whole. Developers should be aware of best practices when dealing with complex integrations, such as syncing, volatile and persistent caching, and handling API limitations. This talk serves as a quick introduction to implementing integrations in a rails environment, beginning with a simple one-way integration and moving on to explore how to handle large amounts of data, the need for "real time" information, and working with API imposed limits.
 
-Bio:
+Speaker Bio:
+Jorge Valdivia is a lead developer and technical architect at Software Allies.  He currently spends most of his time developing Rails apps, but has been known to hack away at anything the business requires, including Perl, C++, database development, mobile, and much more. 
 
-Jesse Dearing is a full stack developer who works primarily in Ruby, though he has dabbled in many languages such as Javascript, C#, Powershell, PHP, and C.
-<br/><br/>
-Jesse was born in Sugar Land and currently resides in Dallas, TX. Currently Jesse works as Lead Developer and Meme Connoisseur for Pure Charity.
-<br/><br/>
-Jesse also blogs infrequently at "http://jessedearing.com":http://jessedearing.com.
+Company Bio:
+Software Allies is a cloud consultant and solution provider based in the US with offices in Texas and Mexico. Our diverse team of experts offers services for application development, quality assurance, implementation, integration, design and training.  By creating solutions on the best cloud platforms available, you can rest easy knowing your cloud applications are on robust systems.  Using an agile methodology with industry-leading technologies and platforms, we work closely with our clients to produce great solutions together!
 
 h3. RubyNews
 

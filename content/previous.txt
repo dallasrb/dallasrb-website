@@ -9,6 +9,22 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. October 2, 2012
+
+h3.  InteGREAT - Integrations in Rails
+
+Just about any application integrates with some sort of external service. Uploading files to AWS, liking all of your friends' statuses, or downloading tweets for the latest trending topic, a modern app is almost required to have an integration. While implementing a simple one may require nothing more than skimming through the README on the Github repo, more complicated integrations call for a deeper understanding of the process as a whole. Developers should be aware of best practices when dealing with complex integrations, such as syncing, volatile and persistent caching, and handling API limitations. This talk serves as a quick introduction to implementing integrations in a rails environment, beginning with a simple one-way integration and moving on to explore how to handle large amounts of data, the need for "real time" information, and working with API imposed limits.
+
+Speaker Bio:
+Jorge Valdivia is a lead developer and technical architect at Software Allies.  He currently spends most of his time developing Rails apps, but has been known to hack away at anything the business requires, including Perl, C++, database development, mobile, and much more. 
+
+Company Bio:
+Software Allies is a cloud consultant and solution provider based in the US with offices in Texas and Mexico. Our diverse team of experts offers services for application development, quality assurance, implementation, integration, design and training.  By creating solutions on the best cloud platforms available, you can rest easy knowing your cloud applications are on robust systems.  Using an agile methodology with industry-leading technologies and platforms, we work closely with our clients to produce great solutions together!
+
+h3. RubyNews
+
+Karthik Hariharan will keep us up to date with the latest news for Ruby and Rails.
+
 h2. September 4, 2012
 
 h3.  Infrastructure as Code with Chef
