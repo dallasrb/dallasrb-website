@@ -9,6 +9,26 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. November 6, 2012
+
+h3.  Doing it live with Rails
+
+We'll walk through what it takes to make a simple Rails app live update, comparing and contrasting the common methodologies.
+
+Expect to see:
+
+- Using the same view templates for rendering on the server and client
+- Rails 4 Live Streaming (Server Sent Events)
+- Pusher
+- Node.js + Socket.IO
+
+Bio:
+Clifton and Kevin are part of the talented team at OrgSync. When they aren't playing with the latest technolgoies from Chef, to Rails 4, to node.js you can find them training for what is also a strong Movember. 
+
+h3. RubyNews
+
+Someone will keep us up to date with the latest news for Ruby and Rails.
+
 h2. October 2, 2012
 
 h3.  InteGREAT - Integrations in Rails

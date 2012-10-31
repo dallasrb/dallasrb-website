@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>What:</dt>
-  <dd>InteGREAT - Integrations in Rails | RubyNews</dd>
+  <dd>Doing it live with Rails | RubyNews</dd>
 
   <dt>Who:</dt>
-  <dd>Jorge Valdivia | Karthik Hariharan</dd>
+  <dd>Clifton King, Kevin Wade</dd>
 
   <dt>When:</dt>
-  <dd>October 2, 7-9pm</dd>
+  <dd>November 6, 7-9pm</dd>
 
   <dt>Where:</dt>
   <dd>
@@ -38,23 +38,27 @@ h2. Upcoming Meeting
   </dd>
 
   <dt>RSVP:</dt>
-  <dd><a href="http://plancast.com/p/d1ea">RSVP on Plancast</a></dd>
+  <dd><a href="http://plancast.com/p/ddws">RSVP on Plancast</a></dd>
 </dl>
 
 
-h3.  InteGREAT - Integrations in Rails
+h3.  Doing it live with Rails
 
-Just about any application integrates with some sort of external service. Uploading files to AWS, liking all of your friends' statuses, or downloading tweets for the latest trending topic, a modern app is almost required to have an integration. While implementing a simple one may require nothing more than skimming through the README on the Github repo, more complicated integrations call for a deeper understanding of the process as a whole. Developers should be aware of best practices when dealing with complex integrations, such as syncing, volatile and persistent caching, and handling API limitations. This talk serves as a quick introduction to implementing integrations in a rails environment, beginning with a simple one-way integration and moving on to explore how to handle large amounts of data, the need for "real time" information, and working with API imposed limits.
+We'll walk through what it takes to make a simple Rails app live update, comparing and contrasting the common methodologies.
 
-Speaker Bio:
-Jorge Valdivia is a lead developer and technical architect at Software Allies.  He currently spends most of his time developing Rails apps, but has been known to hack away at anything the business requires, including Perl, C++, database development, mobile, and much more. 
+Expect to see:
 
-Company Bio:
-Software Allies is a cloud consultant and solution provider based in the US with offices in Texas and Mexico. Our diverse team of experts offers services for application development, quality assurance, implementation, integration, design and training.  By creating solutions on the best cloud platforms available, you can rest easy knowing your cloud applications are on robust systems.  Using an agile methodology with industry-leading technologies and platforms, we work closely with our clients to produce great solutions together!
+- Using the same view templates for rendering on the server and client
+- Rails 4 Live Streaming (Server Sent Events)
+- Pusher
+- Node.js + Socket.IO
+
+Bio:
+Clifton and Kevin are part of the talented team at OrgSync. When they aren't playing with the latest technolgoies from Chef, to Rails 4, to node.js you can find them training for what is also a strong Movember. 
 
 h3. RubyNews
 
-Karthik Hariharan will keep us up to date with the latest news for Ruby and Rails.
+Someone will keep us up to date with the latest news for Ruby and Rails.
 
 h3. Meeting Open to Everyone
 
