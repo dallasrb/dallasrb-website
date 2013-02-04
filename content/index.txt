@@ -11,8 +11,8 @@ Dallas Ruby is the coolest place ever.  We meet the first Tuesday of every month
 
 h2. Future Meetings
 
-* November: Backbone and SocketIO with Rails
-* December: Controlling Physical Things w/Ruby AND Best/Worst of 2012
+* March: TBA
+* April: TBA
 
 "Let us know if you would like to present":http://groups.google.com/group/dallasrb
 
@@ -23,13 +23,13 @@ h2. Upcoming Meeting
 
 <dl>
   <dt>What:</dt>
-  <dd>Doing it live with Rails | RubyNews</dd>
+  <dd>Lightning Talks | Best/Worst of 2012 | RubyNews</dd>
 
   <dt>Who:</dt>
-  <dd>Clifton King, Kevin Wade</dd>
+  <dd>YOU!</dd>
 
   <dt>When:</dt>
-  <dd>November 6, 7-9pm</dd>
+  <dd>February 5, 7-9pm</dd>
 
   <dt>Where:</dt>
   <dd>
@@ -38,27 +38,20 @@ h2. Upcoming Meeting
   </dd>
 
   <dt>RSVP:</dt>
-  <dd><a href="http://plancast.com/p/ddws">RSVP on Plancast</a></dd>
+  <dd><a href="http://plancast.com/p/gf9g">RSVP on Plancast</a></dd>
 </dl>
 
+h3. Lightning Talks
 
-h3.  Doing it live with Rails
+It's been a while since we've met, so bring something you've learned to share with the group. It can be anything from a gem you've tried, an upgrade experience (!!!), a new service or process you're experimenting with, or anything else under the Ruby sun.
 
-We'll walk through what it takes to make a simple Rails app live update, comparing and contrasting the common methodologies.
+h3. Best/Worst of 2012
 
-Expect to see:
-
-- Using the same view templates for rendering on the server and client
-- Rails 4 Live Streaming (Server Sent Events)
-- Pusher
-- Node.js + Socket.IO
-
-Bio:
-Clifton and Kevin are part of the talented team at OrgSync. When they aren't playing with the latest technolgoies from Chef, to Rails 4, to node.js you can find them training for what is also a strong Movember. 
+Ah, 2012. We wrote some good code and we wrote some not so good code. Bring your best and worst Ruby from last year and we'll share them.
 
 h3. RubyNews
 
-Someone will keep us up to date with the latest news for Ruby and Rails.
+We'll get up to date with the latest news for Ruby and Rails.
 
 h3. Meeting Open to Everyone
 

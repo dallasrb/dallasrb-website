@@ -9,6 +9,34 @@ h1. <%= @page.title %>
 
 Back to "Home":/
 
+h2. February 5, 2013
+
+h3. Lightning Talks
+It's been a while since we've met, so bring something you've learned to share with the group. It can be anything from a gem you've tried, an upgrade experience (!!!), a new service or process you're experimenting with, or anything else under the Ruby sun.
+
+h3. Best/Worst of 2012
+Ah, 2012. We wrote some good code and we wrote some not so good code. Bring your best and worst Ruby from last year and we'll share them.
+
+h3. RubyNews
+
+We'll get up to date with the latest news for Ruby and Rails.
+
+h2. January 1, 2013
+
+No meeting. Happy New Year!
+
+h2. December 4, 2012
+
+h3. Ruby and the Ball of Light
+
+Marshall Yount will be showing off the codez underlying the Ball of Light art project (that went to Burning Man in 2012). There will be MS Kinect Kung Foo. There will be computer controlled DMX DJ lights. And there will be pictures and music and code samples.
+
+After the talk (or during?) there will be a demo of the system in action.
+
+h3. RubyNews
+
+We'll get up to date with the latest news for Ruby and Rails.
+
 h2. November 6, 2012
 
 h3.  Doing it live with Rails
